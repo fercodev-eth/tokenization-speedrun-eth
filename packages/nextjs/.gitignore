@@ -36,3 +36,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 ipfs-upload.config.json
+
+# local tooling / AI editors
+.ai/
+.claude/
+.cursor/
+.agents/
+.opencode/
